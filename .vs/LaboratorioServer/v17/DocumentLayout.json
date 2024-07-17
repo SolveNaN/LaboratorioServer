@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|c:\\users\\dagoberto\\source\\repos\\laboratorioserver\\controllers\\e5_componente_clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|solutionrelative:controllers\\e5_componente_clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|c:\\users\\dagoberto\\source\\repos\\laboratorioserver\\controllers\\e2_tipo_maquinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|solutionrelative:controllers\\e2_tipo_maquinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|c:\\users\\dagoberto\\source\\repos\\laboratorioserver\\controllers\\e14_muestracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|solutionrelative:controllers\\e14_muestracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|c:\\users\\dagoberto\\source\\repos\\laboratorioserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A4751081-BEE5-4A38-8B74-035958601E73}|LaboratorioServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "E5_Componente_ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E5_Componente_ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\E5_Componente_ClienteController.cs",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E5_Componente_ClienteController.cs",
+              "RelativeToolTip": "Controllers\\E5_Componente_ClienteController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:40:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E2_Tipo_MaquinaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E2_Tipo_MaquinaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\E2_Tipo_MaquinaController.cs",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E2_Tipo_MaquinaController.cs",
+              "RelativeToolTip": "Controllers\\E2_Tipo_MaquinaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:40:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E14_MuestraController.cs",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E14_MuestraController.cs",
+              "RelativeDocumentMoniker": "Controllers\\E14_MuestraController.cs",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\E14_MuestraController.cs",
+              "RelativeToolTip": "Controllers\\E14_MuestraController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T03:16:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -42,12 +93,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T08:34:25.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T08:34:25.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "A4_UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\A4_UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\A4_UsuarioController.cs",
@@ -59,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -71,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -83,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\LaboratorioServer\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",

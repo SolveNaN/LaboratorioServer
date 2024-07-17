@@ -69,3 +69,4 @@ C:\Users\Dagoberto\source\repos\LaboratorioServer\obj\Debug\net8.0\LaboratorioSe
 C:\Users\Dagoberto\source\repos\LaboratorioServer\obj\Debug\net8.0\LaboratorioServer.genruntimeconfig.cache
 C:\Users\Dagoberto\source\repos\LaboratorioServer\obj\Debug\net8.0\ref\LaboratorioServer.dll
 C:\Users\Dagoberto\source\repos\LaboratorioServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dagoberto\source\repos\LaboratorioServer\obj\Debug\net8.0\LaboratorioServer.sourcelink.json
